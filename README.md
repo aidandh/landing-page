@@ -1,4 +1,4 @@
-# landing-page
+# top-landing-page
 
 The landing page project that is part of The Odin Project
 
